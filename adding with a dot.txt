@@ -1,0 +1,3 @@
+git add .
+
+// this adds all files yo
