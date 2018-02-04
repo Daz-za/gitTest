@@ -1,0 +1,5 @@
+Git commands:
+
+git commit (with no -m if you want more than one line to explain changes)
+
+// then write all your changes and hit ESC :wq ENTER
